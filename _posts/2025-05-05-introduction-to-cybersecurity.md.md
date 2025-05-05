@@ -1,12 +1,13 @@
 ---
 layout: posts
 title: 'Introduction to Cybersecurity'
-date: 2025-05-05 10:00:00 +0000
+date: 2025-05-03 10:00:00 +0000
 categories: [Cybersecurity]
 tags: [python, fullstack, jekyll]
 author: Daniel Ricketts
-permalink: /Cybersecurity/
+permalink: /learning/
 classes: Cybersecurity-page
+published: true
 ---
 
 Cybersecurity is a fascinating and crucial field in today’s world, where technology is deeply integrated into our daily lives. My interest in this topic began while studying Data Analytics and learning about the importance of securing information. I decided I didn’t just want to understand data—I wanted to ensure it was protected from the threats that exist in the digital world.
